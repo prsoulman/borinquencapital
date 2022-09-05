@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/borinquencapital/static/css/main.898ee733.css",
+    "main.js": "/borinquencapital/static/js/main.f01b3769.js",
+    "static/js/787.0f261978.chunk.js": "/borinquencapital/static/js/787.0f261978.chunk.js",
+    "static/media/whitebacklogo.gif": "/borinquencapital/static/media/whitebacklogo.b1296a9e989c1c8d442e.gif",
+    "index.html": "/borinquencapital/index.html",
+    "main.898ee733.css.map": "/borinquencapital/static/css/main.898ee733.css.map",
+    "main.f01b3769.js.map": "/borinquencapital/static/js/main.f01b3769.js.map",
+    "787.0f261978.chunk.js.map": "/borinquencapital/static/js/787.0f261978.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898ee733.css",
+    "static/js/main.f01b3769.js"
+  ]
+}
