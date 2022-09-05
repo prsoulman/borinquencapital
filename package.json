@@ -1,5 +1,6 @@
 {
-  "name": "borinquencapital_erase",
+  "homepage": "https://prsoulman.github.io/borinquencapital/",
+  "name": "borinquencapital",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
